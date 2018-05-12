@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25727'
     url: http://www.gutenberg.org/2009/agents/25727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23178#The-Indian-s-Hand1892
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
 identifiers:
